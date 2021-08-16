@@ -1,0 +1,14 @@
+
+
+.container {
+    margin: 50px;
+    background-color: darkgrey;
+
+}
+
+#root {
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    box-shadow: 0 0 10px 0 #000;
+}
